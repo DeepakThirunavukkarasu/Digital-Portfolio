@@ -21,6 +21,8 @@ img{
     border-width: 5px;
     border-color: white;
     border-radius: 50%;
+    width:180px;
+    height:180px;
 }
 .name-h{
     margin-left: 500px;
@@ -163,8 +165,20 @@ li{
     border-radius: 20px;
     padding-bottom: 60px;
 }
+. contact:hover{
+    background-color:#aaaaaa;
+}
 label{
     display: block;
     text-align: center;
     
+}
+. copyright{
+    background-color:#4b4b4bbb;
+    margin:5px;
+    padding:20px;
+    border-radius:20px;
+}
+. copyright:hover{
+    background-color:#2e2d2dc7;
 }
